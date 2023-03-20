@@ -1,9 +1,0 @@
-{
-  "domain": "ab_ble_tracker",
-  "name": "AB BLE Tracker",
-  "version": "0.1.2",
-  "documentation": "https://github.com/iquix/ab_ble_tracker",
-  "requirements": [],
-  "dependencies": ["mqtt"],
-  "codeowners": ["@iquix"]
-}
